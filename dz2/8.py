@@ -1,3 +1,7 @@
+'''
+Напишите программу, которая получает целое число и возвращает его шестнадцатеричное строковое представление.
+Функцию hex используйте для проверки своего результата.
+'''
 def print_hex(a_input):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Вы ввели {a_input}\n')  # Press Ctrl+F8 to toggle the breakpoint.
